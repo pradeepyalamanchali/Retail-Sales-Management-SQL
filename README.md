@@ -11,7 +11,7 @@ A complete Retail Sales Management database built using SQL Server Management St
 - 30+ SQL queries (JOINs, Subqueries, GROUP BY, Window Functions)
 - 5 Stored Procedures including dynamic product search
 - Scalar and Table-Valued Functions (discount, tax, order history)
-- Transaction Management (COMMIT, ROLLBACK, SAVEPOINT)
+- Transaction Management (COMMIT, SAVEPOINT)
 - 4 Views for simplified reporting
 
 ## Tools Used
